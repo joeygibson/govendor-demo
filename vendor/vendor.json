@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "SvwRupGQyowCe8fHGW1syQDXdG8=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "219c8cb75c258c552e999735be6df753ffc7afdc",
+			"revisionTime": "2016-02-24T21:10:30Z"
+		}
+	],
+	"rootPath": "github.com/joeygibson/govendor-demo"
+}
